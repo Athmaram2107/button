@@ -1,0 +1,32 @@
+body{
+    background-image: url("6857384.jpg");
+    background-size: 250vh;
+    background-repeat: no-repeat;
+    
+    
+}
+body:hover{
+    background-image: url("6877205.jpg");
+}
+.button {
+    display:flex;
+    background:#FEE12B;
+    color:rgb(1, 8, 14);
+    width:100PX;
+    height:40px;
+    margin:auto;
+    margin-top: 260px;
+    padding: 18px 10px 0px 18px;
+    border-radius: 100px;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+ .button:hover{
+    background-color: #8F00FF;
+    color: white;
+ }
+    
+    
+    
